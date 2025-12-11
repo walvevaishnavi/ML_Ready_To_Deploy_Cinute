@@ -31,22 +31,7 @@ Practical notes: pointers for hyperparameter tuning, evaluation choices, and dep
 🧰 Tech stack
 
 Python 3.8+ • Pandas, NumPy, Matplotlib, Seaborn, Plotly, Scikit-Learn, joblib
-🏁 Quickstart
-# 1. clone
-git clone <repo-url>
-cd repo-name
 
-
-# 2. create venv and install
-python -m venv venv
-source venv/bin/activate # mac/linux
-venv\Scripts\activate # windows
-pip install -r requirements.txt
-
-
-# 3. open notebooks
-jupyter lab
-# run the notebooks in order or use the exported scripts in `src/`
 ├── data/ # raw and processed datasets
 ├── notebooks/ # the five notebooks (Insurance, Salary..., etc.)
 ├── src/ # reusable pipeline scripts (preprocess.py, model.py)
