@@ -1,4 +1,4 @@
-🚀 Ready-to-Deploy Machine Learning Collection
+🚀 Ready-to-Deploy Machine Learning Collection(Read-Only)
 
 A polished collection of five production-ready ML notebooks and scripts — each built with reproducibility, clarity, and deployment in mind.
 
